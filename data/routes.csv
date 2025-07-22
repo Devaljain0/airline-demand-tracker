@@ -1,0 +1,11 @@
+origin,destination,price,date,airline,travel_class
+BOM,HND,431,2025-07-11,Cathay Pacific,Economy
+BOM,HND,497,2025-07-11,THAI,Economy
+BOM,HND,628,2025-07-11,Cathay Pacific,Economy
+BOM,HND,740,2025-07-11,THAI,Economy
+BOM,HND,743,2025-07-11,IndiGo,Economy
+BOM,HND,733,2025-07-11,Air India,Economy
+BOM,HND,743,2025-07-11,IndiGo,Economy
+BOM,HND,1197,2025-07-11,Qatar Airways,Economy
+BOM,HND,2011,2025-07-11,Emirates,Economy
+BOM,HND,,2025-07-11,Air India,Economy
