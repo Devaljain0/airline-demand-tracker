@@ -30,5 +30,5 @@ A web application that scrapes flight data using SerpAPI and generates AI-powere
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/airline-demand-tracker.git
+git clone https://github.com/Devaljain0/airline-demand-tracker.git
 cd airline-demand-tracker
